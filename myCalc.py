@@ -12,5 +12,8 @@ def div(a,b):
         return 'Division not Possible'
     return a/b
 
+def remainder(a,b):
+    retrun a%b
+
 pi = 3.14
 e = 2.7
