@@ -12,6 +12,9 @@ def div(a,b):
         return 'Division not Possible'
     return a/b
 
+def power(a, b):
+    return a**b
+
 def remainder(a,b):
     retrun a%b
 
